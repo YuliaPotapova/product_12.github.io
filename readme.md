@@ -2,7 +2,7 @@
 по программе обучения WEB-разработке на Яндекс.Практикум
 
 # Проект по темам: серверная разработка на Node.js, введение в express.js
-#### ***URL: <https://yuliapotapova.github.io/product_12.github.io/>***
+#### ***URL: <https://github.com/YuliaPotapova/product_12.github.io>***
 #### ***Версия: 0.0.1***
 
 ***
