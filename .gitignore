@@ -1,12 +1,10 @@
-# Logs
+﻿# Logs
 logs
 *.log
 npm-debug.log*
 
 # Dependency directory
 node_modules
-.vs
-.vscode
 
 # Optional npm cache directory
 .npm
