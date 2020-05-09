@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "product_12",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.3",
+  "description": "Проектная работа по темам: серверная разработка на Node.js, введение в express.js",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
